@@ -329,7 +329,7 @@ retrieval, and collaboration.
       alt="Connect with Umair Asfar on LinkedIn"
       loading="lazy">
   </a>
-  <a href="mailto:umairasfar.ua@outlook.com">
+  <a href="mailto:umairasfar77@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-Contact-00D9FF?style=for-the-badge&labelColor=0A0E14"
       alt="Send Umair Asfar an email"
